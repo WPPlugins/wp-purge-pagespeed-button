@@ -1,0 +1,6 @@
+engines:
+  phpcodesniffer:
+      enabled: true
+      config:
+        standard: "WordPress-Extra"
+        file_extensions: "php,inc,lib"
